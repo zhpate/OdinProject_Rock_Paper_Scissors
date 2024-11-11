@@ -1,0 +1,7 @@
+body {
+    width: 1000px;
+    justify-content: center; 
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+}
